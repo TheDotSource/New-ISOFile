@@ -1,9 +1,11 @@
 # New-ISOFile
 
   Create an ISO file from a source folder.
+  
   Optionally speicify a boot image and media type.
 
   Based on original function by Chris Wu.
+  
   https://gallery.technet.microsoft.com/scriptcenter/New-ISOFile-function-a8deeffd (link appears to be no longer valid.)
 
   Changes:
